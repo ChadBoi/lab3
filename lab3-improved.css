@@ -20,7 +20,9 @@ article {
     padding: 12px;
     background-color: white;
 }
-
+menu {
+    padding-left: 0;
+}
 menu ul {
     padding: 0;
 }
